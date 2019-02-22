@@ -125,6 +125,10 @@ footer h3 a:hover {
     border-radius: 15px;
 }
 
+.category a img:hover {
+    border: 7px solid #e53a3a;
+}
+
 /* Picture Grids */
 
 .grid {
@@ -142,6 +146,10 @@ footer h3 a:hover {
     margin: 0 auto;
     border-radius: 15px;
     border: 4px solid #1b1b1b;
+}
+
+.grid img:hover {
+    border: 4px solid #e53a3a;
 }
 
 /* Sources */
